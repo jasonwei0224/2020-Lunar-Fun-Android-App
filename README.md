@@ -66,6 +66,8 @@ Created by
 Android:
 * [@SangwookYun](https://github.com/SangwookYun)
 * [@Pual293](https://github.com/paul923)
+* [@cinomed88](https://github.com/cinomed88)
+* [erickkkg7](https://github.com/erickkkg7)
 
 iOS
 * [@ginajhkim](https://github.com/ginajhkim)
