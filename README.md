@@ -59,4 +59,15 @@ List of features ready and TODOs for future development
 Project is: _finished_
 
 ## Contact
-Created by [@jasonwei0224](https://www.linkedin.com/in/jasonwei0224/) - feel free to contact me!
+Created by 
+
+* [@jasonwei0224](https://www.linkedin.com/in/jasonwei0224/) - Team lead
+
+Android:
+* [@SangwookYun](https://github.com/SangwookYun)
+* [@Pual293](https://github.com/paul923)
+
+iOS
+* [@ginajhkim](https://github.com/ginajhkim)
+* [@yunseonghur](https://github.com/yunseonghur)
+* [@sxrg](https://github.com/sxrg) - UI Design
