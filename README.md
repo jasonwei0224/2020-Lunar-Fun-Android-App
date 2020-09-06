@@ -27,19 +27,23 @@ Modifications Include:
 * Update festival locatio map to use google maps
 * Changed UI Design 
 
-[Android](https://play.google.com/store/apps/details?id=ca.acsea.funstop&hl=en)
+[Android](https://play.google.com/store/apps/details?id=ca.acsea.funstop&hl=en)<br/>
 [iOS](https://apps.apple.com/ca/app/lunar-fun-app/id1476290487)
 
 ## Screenshots
-![Example screenshot](./multiple_screenshot.png)
-[Individual Screenshots](./Screenshot)
+![Example screenshot](./multiple_screenshot.png)<br/><br/>
+[Individual Screenshots](./Screenshot)<br/>
+[Mock Up Demo](https://drive.google.com/file/d/1MgebUd3RM8cng_BKBV1ZoHm4med0EJ7s/view?usp=sharing)
+
 ## Technologies
 * Java
 * Firebase
 * Google Maps
 
 ## Setup
-Please visit https://play.google.com/store/apps/details?id=ca.acsea.funstop&hl=en to download the app. 
+To download the app please visit 
+[Android](https://play.google.com/store/apps/details?id=ca.acsea.funstop&hl=en)<br/>
+[iOS](https://apps.apple.com/ca/app/lunar-fun-app/id1476290487)
 
 ## Features
 List of features ready and TODOs for future development
