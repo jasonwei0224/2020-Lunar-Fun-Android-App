@@ -8,7 +8,6 @@ A festival event app thats made for 2020 Lunar Fest
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
