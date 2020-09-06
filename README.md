@@ -1,4 +1,4 @@
-# LunarFun Android App
+# 2020 Lunar Fun Android App
 A festival event app thats made for 2020 Lunar Fest
 
 ## Table of contents
