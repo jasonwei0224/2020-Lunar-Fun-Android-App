@@ -41,7 +41,7 @@ Modifications Include:
 * Google Maps
 
 ## Setup
-To download the app please visit 
+To download the app please visit: <br/>
 [Android](https://play.google.com/store/apps/details?id=ca.acsea.funstop&hl=en)<br/>
 [iOS](https://apps.apple.com/ca/app/lunar-fun-app/id1476290487)
 
